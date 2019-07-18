@@ -1,3 +1,5 @@
+Node.js/Express.js Yard&Garage Shopping Site
+
 To run this app you need a personal Paypal Account
 You can create on at paypal.com
 When you create the account you don't need to link a credit card or bank account at that
