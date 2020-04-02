@@ -1,5 +1,7 @@
 Node.js/Express.js Yard&Garage Shopping Site
 
+There is a short video demo avaliable at: https://youtu.be/ThNtlp-1240
+
 To run this app you need a personal Paypal Account
 You can create on at paypal.com
 When you create the account you don't need to link a credit card or bank account at that
@@ -28,8 +30,8 @@ then you can access from localhost at
 http://localhost:3000
 
 5) Login to the app using the dummy user for project:
-username : admin@admin.com
-password : admin
+username : yajihu@admin.com
+password : yajihu
 
 5) Important
 Before starting application please make sure your mongo database runs.
